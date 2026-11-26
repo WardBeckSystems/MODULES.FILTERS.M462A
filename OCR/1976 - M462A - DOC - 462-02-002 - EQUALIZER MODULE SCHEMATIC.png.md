@@ -30,7 +30,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (358, 11)–(383, 34) mm: IdRN- · GEBL · ISCALE · TOLS
 - **Wiring (first pass):** 180 connected wire groups from 1,105 runs; labelled ends: 297 mm → [DL; 119 mm → 243, 6-B/6; 118 mm → R23, ISk, REA <ik, 22; 116 mm → EQUALIZER Module, WBSs, GEBL; 114 mm → 6.8/6
 
-Every curve, box, word and wire group: [1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M462A%20-%20DOC%20-%20462-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M462A%20-%20DOC%20-%20462-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

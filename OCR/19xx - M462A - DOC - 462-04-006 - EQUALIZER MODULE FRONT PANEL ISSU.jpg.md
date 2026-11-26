@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 164 in 108 lines: WBS · M4624 · 6.412 8 · high FREQUENCY section_ · to 25 kHz. The · contro · calbration cfines · Cont nuous · shetbinc corner of 15 dB. · variab · from · 1.6
 - **Title block:** (139, 24)–(262, 318) mm: WBS · M4624 · 6.412 8 · FREQUE NCY section · BoosT/cUT · Cont · nuousiY · able · gain Ios: · terial xith rcference · of high frequency content · MF · RH · hid FRequEncY · Continuous · Jos$ · Vri · abl
 
-Every curve, box, word and wire group: [19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU (traced).json](../MECHANICAL/19xx%20-%20M462A%20-%20DOC%20-%20462-04-006%20-%20EQUALIZER%20MODULE%20FRONT%20PANEL%20ISSU%20(traced).json) (the CAD file: `19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU (traced).json](../MECHANICAL/19xx%20-%20M462A%20-%20DOC%20-%20462-04-006%20-%20EQUALIZER%20MODULE%20FRONT%20PANEL%20ISSU%20%28traced%29.json) (the CAD file: `19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU (traced).dxf`).
 
 ## Full text
 

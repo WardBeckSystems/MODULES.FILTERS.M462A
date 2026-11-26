@@ -22,7 +22,7 @@ Wiki page: [M462A](../../../../PAGES/M462A.md)
 - **Words (OCR):** 8 in 6 lines: WAAD-BECK SYSTEMS LTD · WBS 841 PROGAESS AVENUE, SCAAAOAOUGH; ONTAAIO MiH2X4 · TELEPHONE: 418/438-8550 · M 462A · EQUALIZER MODULE · DESIGN AND MANUUFACTURE OF PACFESSONI AJDIO EQUIPMFNT
 - **Title block:** (31, 395)–(282, 432) mm: WAAD-BECK SYSTEMS LTD · WBS 841 PROGAESS AVENUE, SCAAAOAOUGH; ONTAAIO MiH2X4 · TELEPHONE: 418/438-8550
 
-Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p1 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p1%20(traced).json) (the CAD file: `1974 - M462A - EQ Module - User Guide p1 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p1 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p1%20%28traced%29.json) (the CAD file: `1974 - M462A - EQ Module - User Guide p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p1
 - **Outlines:** line 11 rings, 607 straight (2,730 mm) / 72 curved (109 mm); text 998 rings, 8,108 straight (9,274 mm) / 2,246 curved (3,484 mm)
 - **Words (OCR):** 125 in 76 lines: WARD-BECK SYSTEMS LTD; · IECHNICAL DATA · M4624 EQUALLZER_MODULE · Gain: · Unity. · Frequency Response: · +0. 25 dB from 20 Hz L0 · 20 kllz (a11 · equalizing controls in · FLAT position) . · Noise: · (20 Hz to
 
-Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p2 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p2%20(traced).json) (the CAD file: `1974 - M462A - EQ Module - User Guide p2 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p2 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p2%20%28traced%29.json) (the CAD file: `1974 - M462A - EQ Module - User Guide p2 (traced).dxf`).
 
 ### Page 3
 
@@ -41,7 +41,7 @@ Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p2
 - **Closed boxes:** 200
 - **Words (OCR):** 22 in 16 lines: WAAD-BECK SySTEMS LTD · FREQUENCY_RESPONSE_CHARACTERISTICS · M4624_EQUALIZER_MOQULE · OdB · LOW_FREQUENCY_section · cut/boost: +15 dB · FREQUENCY : 25 · 400 Hz . · 20H1 · tOOH · Odd · MID_FREQUENCY_section
 
-Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p3 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p3%20(traced).json) (the CAD file: `1974 - M462A - EQ Module - User Guide p3 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p3 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p3%20%28traced%29.json) (the CAD file: `1974 - M462A - EQ Module - User Guide p3 (traced).dxf`).
 
 ### Page 4
 
@@ -53,7 +53,7 @@ Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p3
 - **Words (OCR):** 39 in 32 lines: WAAD-BECK SYSTEMS LTD; · FREQUENCY · RESPONSE_CHARACTERISTICS · M4624 EQUALIZER_MODULE · MID_FREQUENCY_section · BoOST: · to · +15 · dB in · dB steps. · FREQUENCY: kHz · CUt:
 - **Title block:** (1, 409)–(134, 432) mm: WAAD-BECK SYSTEMS LTD;
 
-Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p4 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p4%20(traced).json) (the CAD file: `1974 - M462A - EQ Module - User Guide p4 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p4 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p4%20%28traced%29.json) (the CAD file: `1974 - M462A - EQ Module - User Guide p4 (traced).dxf`).
 
 ### Page 5
 
@@ -66,7 +66,7 @@ Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p4
 - **Words (OCR):** 169 in 104 lines: WBS · 3.26 4 12,8 · High FREQUENCY section,  FREQUENCY ADJUSTHENT controi · R2: Cont nuous · variable from 1.6 · The · Tbration · Ine che · shelvinG BOosT · corner · of 15 dB - · rem
 - **Title block:** (142, 0)–(331, 323) mm: WBS · 3.26 4 12,8 · HF · High FREQUENC ( · seccion, BOOST/CUT control · Continuous · F lab le from · 415 · Set5 · ga (n or · teria| with re ference I0 Ene romIna | leve · los $ of high Frequency conte
 
-Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p5 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p5%20(traced).json) (the CAD file: `1974 - M462A - EQ Module - User Guide p5 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p5 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p5%20%28traced%29.json) (the CAD file: `1974 - M462A - EQ Module - User Guide p5 (traced).dxf`).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p5
 - **Closed boxes:** 70; named: B /|2; c|3; D /4; E /5; F |6; HIZ; J |8; Eaee; K|9; M /11; N /12; P /13
 - **Words (OCR):** 29 in 23 lines: Input · B /|2 · InPUt SHIELD · c|3 · D /4 · E /5 · F |6 · HIZ · J |8 · K|9 · M /11 · Eaee
 
-Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p6 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p6%20(traced).json) (the CAD file: `1974 - M462A - EQ Module - User Guide p6 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M462A - EQ Module - User Guide p6 (traced).json](../MANUALS/1974%20-%20M462A%20-%20EQ%20Module%20-%20User%20Guide%20p6%20%28traced%29.json) (the CAD file: `1974 - M462A - EQ Module - User Guide p6 (traced).dxf`).
 
 ## Full text
 
