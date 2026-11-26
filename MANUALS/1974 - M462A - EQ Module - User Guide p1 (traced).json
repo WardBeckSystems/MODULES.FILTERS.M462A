@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M462A/MANUALS/1974 - M462A - EQ Module - User Guide.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0e8c166472068308-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1468, 2000],
+  "mm": [316.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "6"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 5.3, 299.0, 422.5],
+ "outlines": {
+  "line": {"rings": 3, "straight": {"n": 495, "mm": 2506.5}, "curved": {"n": 60, "mm": 95.4}},
+  "text": {"rings": 163, "straight": {"n": 1964, "mm": 2558.9}, "curved": {"n": 467, "mm": 736.2}},
+  "tb": {"rings": 16, "straight": {"n": 260, "mm": 461.1}, "curved": {"n": 53, "mm": 81.6}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [109.2, 412.6, 275.9, 423.4], "text": "WAAD-BECK SYSTEMS LTD"},
+   {"mm": [37.6, 403.5, 275.7, 419.8], "text": "WBS 841 PROGAESS AVENUE, SCAAAOAOUGH; ONTAAIO MiH2X4"},
+   {"mm": [198.0, 401.1, 275.1, 408.3], "text": "TELEPHONE: 418/438-8550"},
+   {"mm": [117.0, 241.4, 189.8, 254.3], "text": "M 462A"},
+   {"mm": [111.6, 228.9, 194.7, 237.0], "text": "EQUALIZER MODULE"},
+   {"mm": [65.6, 4.5, 244.2, 9.8], "text": "DESIGN AND MANUUFACTURE OF PACFESSONI AJDIO EQUIPMFNT"}
+  ]
+ },
+ "title_block": {
+  "mm": [31.2, 394.8, 282.3, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD", "WBS 841 PROGAESS AVENUE, SCAAAOAOUGH; ONTAAIO MiH2X4", "TELEPHONE: 418/438-8550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1468 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–299 mm across, 5–422 mm up",
+  "- **Outlines:** line 3 rings, 495 straight (2,506 mm) / 60 curved (95.4 mm); text 163 rings, 1,964 straight (2,559 mm) / 467 curved (736 mm); tb 16 rings, 260 straight (461 mm) / 53 curved (81.6 mm)",
+  "- **Words (OCR):** 8 in 6 lines: WAAD-BECK SYSTEMS LTD · WBS 841 PROGAESS AVENUE, SCAAAOAOUGH; ONTAAIO MiH2X4 · TELEPHONE: 418/438-8550 · M 462A · EQUALIZER MODULE · DESIGN AND MANUUFACTURE OF PACFESSONI AJDIO EQUIPMFNT",
+  "- **Title block:** (31, 395)–(282, 432) mm: WAAD-BECK SYSTEMS LTD · WBS 841 PROGAESS AVENUE, SCAAAOAOUGH; ONTAAIO MiH2X4 · TELEPHONE: 418/438-8550"
+ ]
+}

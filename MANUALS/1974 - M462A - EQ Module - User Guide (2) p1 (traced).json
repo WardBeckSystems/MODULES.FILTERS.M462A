@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/FILTERS/M462A/MANUALS/1974 - M462A - EQ Module - User Guide (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/6e4f48070ec285bf-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1468, 2000],
+  "mm": [316.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "6"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 5.3, 300.7, 422.7],
+ "outlines": {
+  "line": {"rings": 129, "straight": {"n": 2000, "mm": 4443.6}, "curved": {"n": 428, "mm": 653.3}},
+  "text": {"rings": 122, "straight": {"n": 977, "mm": 1392.4}, "curved": {"n": 205, "mm": 324.8}}
+ },
+ "circles": [],
+ "boxes": [{"mm": [268.1, 416.0, 272.7, 419.7], "w": 4.5, "h": 3.7, "from": "ring", "words": ["TD."]}],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [29.6, 405.9, 116.4, 422.7], "text": "[VVElS] E14'"},
+   {"mm": [109.0, 415.6, 240.9, 423.3], "text": "WARD-BECK SYSTEM"},
+   {"mm": [260.4, 415.6, 278.5, 423.3], "text": "TD."},
+   {"mm": [225.0, 409.3, 258.4, 413.7], "text": "O'\\ITARO M1"},
+   {"mm": [108.2, 403.7, 158.5, 407.8], "text": "TEl..EX DB-23<>l'l!'l"},
+   {"mm": [236.2, 403.7, 275.5, 407.8], "text": "411514::lQ '\"00"},
+   {"mm": [117.2, 240.9, 190.9, 252.2], "text": "M462A"},
+   {"mm": [112.3, 229.1, 193.7, 235.3], "text": "EQ UA IZE MODULE"},
+   {"mm": [270.5, 54.4, 290.4, 63.0], "text": "ps"},
+   {"mm": [259.7, 43.4, 280.5, 54.2], "text": "BS"},
+   {"mm": [238.6, 22.2, 256.1, 29.0], "text": "tp"},
+   {"mm": [231.7, 15.5, 251.5, 22.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1468 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–301 mm across, 5–423 mm up",
+  "- **Outlines:** line 129 rings, 2,000 straight (4,444 mm) / 428 curved (653 mm); text 122 rings, 977 straight (1,392 mm) / 205 curved (325 mm)",
+  "- **Closed boxes:** 1; named: TD.",
+  "- **Words (OCR):** 20 in 12 lines: [VVElS] E14' · WARD-BECK SYSTEM · TD. · O'\\ITARO M1 · TEl..EX DB-23<>l'l!'l · 411514::lQ '\"00 · M462A · EQ UA IZE MODULE · ps · BS · tp · ht"
+ ]
+}
