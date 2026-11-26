@@ -88,6 +88,23 @@ mod plugin {
                 drive_pct: self.drive.value(),
             }
         }
+
+        /// The same settings from plain parameter values looked up by parameter id (bool 0 / 1, int and enum as
+        /// their index): how a host outside nih-plug (the Pro Tools build) drives the DSP.
+        pub fn settings_from(v: &dyn Fn(&str) -> f32) -> Settings {
+            Settings {
+                eq_in: (v("eqin") > 0.5),
+                lf_gain_db: v("lfg"),
+                lf_150: (v("lf150") > 0.5),
+                lf_shelf: (v("lfshelf") > 0.5),
+                mid_hz: v("midf"),
+                mid_q: v("midq"),
+                mid_gain_db: v("midg"),
+                hf_gain_db: v("hfg"),
+                hf_10k: (v("hfshelf") > 0.5),
+                drive_pct: v("sat"),
+            }
+        }
     }
 
     pub struct Plugin {
@@ -145,6 +162,22 @@ mod plugin {
     impl Vst3Plugin for Plugin {
         const VST3_CLASS_ID: [u8; 16] = *b"WBS-M462A-Equal1";
         const VST3_SUBCATEGORIES: &'static [Vst3SubCategory] = &[Vst3SubCategory::Fx, Vst3SubCategory::Eq];
+    }
+
+    #[cfg(test)]
+    mod settings_from_tests {
+        use super::*;
+
+        #[test]
+        fn settings_from_matches_settings() {
+            let p = Params462A::default();
+            let map = p.param_map();
+            let v = |id: &str| {
+                let (_, ptr, _) = map.iter().find(|(i, _, _)| i == id).expect(id);
+                unsafe { ptr.unmodulated_plain_value() }
+            };
+            assert_eq!(format!("{:?}", Params462A::settings_from(&v)), format!("{:?}", p.settings()));
+        }
     }
 
     nih_export_clap!(Plugin);
