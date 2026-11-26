@@ -1,0 +1,79 @@
+{
+ "index": 2,
+ "code": "M462A",
+ "title": "M462A Channel Equalizer",
+ "category": "Equalizers",
+ "description": "Dual-band broadcast console channel equalizer with shelf/bell mode switches",
+ "circuitSummary": "Ward-Beck broadcast channel strip EQ providing high and low active Baxandall curves switchable between shelving and resonant bell shapes with transformer isolation.",
+ "nodes": [
+  {
+   "id": "in",
+   "label": "Line In",
+   "type": "input",
+   "x": 60,
+   "y": 80
+  },
+  {
+   "id": "in_amp",
+   "label": "Discrete Buffer",
+   "type": "amp",
+   "x": 190,
+   "y": 80
+  },
+  {
+   "id": "lf_sec",
+   "label": "LF Active Shelf/Bell",
+   "type": "filter",
+   "x": 350,
+   "y": 80
+  },
+  {
+   "id": "hf_sec",
+   "label": "HF Active Shelf/Bell",
+   "type": "filter",
+   "x": 520,
+   "y": 80
+  },
+  {
+   "id": "out",
+   "label": "Insert Send",
+   "type": "output",
+   "x": 690,
+   "y": 80
+  }
+ ],
+ "wires": [
+  {
+   "from": "in",
+   "to": "in_amp"
+  },
+  {
+   "from": "in_amp",
+   "to": "lf_sec"
+  },
+  {
+   "from": "lf_sec",
+   "to": "hf_sec"
+  },
+  {
+   "from": "hf_sec",
+   "to": "out"
+  }
+ ],
+ "clap": {
+  "id": "ca.wbsps.m462a_channel_eq",
+  "name": "Ward-Beck M462A Channel Equalizer",
+  "strings": [
+   "ca.wbsps.m462a_channel_eq",
+   "Ward-Beck M462A Channel Equalizer",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "3-band channel strip equalizer with switchable shelving and sweepable mid"
+  ]
+ },
+ "suite_index": 2,
+ "source": "2030.env/vst/M462A_Channel_EQ"
+}
