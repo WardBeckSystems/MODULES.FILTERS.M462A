@@ -1,0 +1,144 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1974 - M462A - P6 - Pin Out.jpg",
+ "module": "M462A",
+ "applies_to": [
+  "M462",
+  "M462A",
+  "M462B"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "462-04-004",
+  "title": "M462, M462A, M462B EQUALIZER MODULE CONNECTOR REAR VIEW",
+  "date": "1974-10",
+  "issue": "1",
+  "drawn": "DM"
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "A-Z opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": "A",
+   "as_drawn": "+  (INPUT)",
+   "signal": "INPUT +",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": "B",
+   "as_drawn": "-  (INPUT)",
+   "signal": "INPUT -",
+   "kind": "in",
+   "port": "INPUT",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": "C",
+   "as_drawn": "INPUT SHIELD",
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": "S",
+   "as_drawn": "+  (OUT)",
+   "signal": "OUTPUT +",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": "+"
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "also": "T",
+   "as_drawn": "-  (OUT)",
+   "signal": "OUTPUT -",
+   "kind": "out",
+   "port": "OUTPUT",
+   "polarity": "-"
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "also": "W",
+   "as_drawn": "-25 VOLTS",
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "also": "X",
+   "as_drawn": "COMMON GROUND",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "also": "Y",
+   "as_drawn": "+25 VOLTS",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "also": "Z",
+   "as_drawn": "CHASSIS GROUND",
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-1",
+    "-": "P1-2",
+    "shield": "P1-3"
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-15",
+    "-": "P1-16"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "unread": [],
+ "confidence": "high",
+ "notes": "Single 22-way edge connector, rear view, drawn as one column of rows labelled with a letter and a number (A|1 ... Z|22, no G, I, O, Q). Each label is written once beside the row, so it is not stated whether it applies to the letter contact, the number contact or both; the number is recorded in 'pin', the letter in 'also'. The drawing names no connector, so it is called P1. Rows D|4 to R|14, U|17 and V|18 are drawn blank (skipped). INPUT bracket covers A|1 (+) and B|2 (-); OUT bracket covers S|15 (+) and T|16 (-). Original Ward-Beck Systems Ltd. sheet (manual page, file name 'P6'): DRN. DM, DATE OCT 74, size A, ISS. 1; MAT'L and FINISH struck out. Read independently from this picture; it shows the same 462-04-004 sheet as the M462 copy."
+}
