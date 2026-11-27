@@ -1,0 +1,193 @@
+{
+ "module": "M462A",
+ "title": "M462A EQUALIZER_MODULE",
+ "source": {
+  "file": "MANUALS/19xx - M462A - DOC - WBS sales 9.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.97,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Uni ty= ±0.25 dB from 20 Hz to 20 kHz (all equalizing controls in FLAT position).",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "(20 Hz to 20.kHz) -80 dBm.",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": -80,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% THD from 20 Hz to 20 kHz at +28 dBm output or Tess. Less than 0.1% at 1 kHz at +28 dBm output.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 1,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms maximum, ba lanced/unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Input Level 30 k ohms +10% balanced _ -10 to +8 dBm nomina] +30 dBm maximum.",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "%"
+    },
+    {
+     "from": -10,
+     "to": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Load Impedance: Output Level: Less than 100 ohms _ 600 ohms minimum, balanced -10 to +8 dBm nominal maximum +30 dBm",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "from": -10,
+     "to": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number terminals of input and output are in phase. +25 volts dc, 100 ma maximum. 0 to 60 degrees Celsius",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 100,
+     "unit": "ma"
+    },
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "Ambient Temperature:"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1.6\" wide X 7\" high X 6.5\" deep_ (41 mm X 178 mm X 165 mm)",
+   "quantities": [
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}

@@ -13,6 +13,28 @@ Ward-Beck Systems M462A, 1974|7. Wiki page: [M462A on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 59 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [17 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M462A - DOC - WBS sales 9.jpg](MANUALS/19xx%20-%20M462A%20-%20DOC%20-%20WBS%20sales%209.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Uni ty= ±0.25 dB from 20 Hz to 20 kHz (all equalizing controls in FLAT position). |
+| **Noise** | (20 Hz to 20.kHz) -80 dBm. |
+| **Harmonic distortion** | Less than 0.25% THD from 20 Hz to 20 kHz at +28 dBm output or Tess. Less than 0.1% at 1 kHz at +28 dBm output. |
+| **Source impedance** | 600 ohms maximum, ba lanced/unbalanced |
+| **Input impedance** | Input Level 30 k ohms +10% balanced _ -10 to +8 dBm nomina] +30 dBm maximum. |
+| **Output impedance** | Load Impedance: Output Level: Less than 100 ohms _ 600 ohms minimum, balanced -10 to +8 dBm nominal maximum +30 dBm |
+| **Phasing** | Low number terminals of input and output are in phase. +25 volts dc, 100 ma maximum. 0 to 60 degrees Celsius |
+| **Power requirements** | Ambient Temperature: |
+| **Dimensions** | 1.6&quot; wide X 7&quot; high X 6.5&quot; deep_ (41 mm X 178 mm X 165 mm) |
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
