@@ -1,17 +1,17 @@
-# M462A · Filters
+# M462A Equalizer Module · Filters
 
 Ward-Beck Systems M462A, 1974|7. Wiki page: [M462A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M462A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 7 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 53 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 38 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 59 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 9 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 54 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 35 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 3 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 55 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -51,30 +51,22 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUE1OaE5jNmVYcWM/view?resourcekey=0-UnZ4x8xfAdDUuERJAtms6A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUE1OaE5jNmVYcWM&resourcekey=0-UnZ4x8xfAdDUuERJAtms6A" width="240" alt="1974 - M462A - wbsps - module - m462a equalizer 011.jpg"></a><br><sub>1974|7 · wbsps - module - m462a equalizer 011</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYXVDN0ZyS0tKVlU/view?resourcekey=0-8oB2eUsgA28PO8zUQH6DiQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYXVDN0ZyS0tKVlU&resourcekey=0-8oB2eUsgA28PO8zUQH6DiQ" width="240" alt="1974 - M462A - wbsps - module - m462a equalizer 012.jpg"></a><br><sub>1974|7 · wbsps - module - m462a equalizer 012</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1974|7 · EQ-2_small](https://drive.google.com/file/d/0B0yR0b5T78SKczVjQVlSa05oSjQ/view?resourcekey=0-R-f5eo3dAteW5d3Cpt7_aQ) · [1974|7 · wbsps - module - m462a equalizer 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKWVJHM0taNG0wYnc/view?resourcekey=0-HCzAoA6W6dEWRV4PviGGkg) · [1974|7 · wbsps - module - m462a equalizer 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKV2hWMUtXNnJtdFE/view?resourcekey=0-VbheXjmeZyjgBwR0i07oZA) · [1974|7 · wbsps - module - m462a equalizer 004_small](https://drive.google.com/file/d/0B0yR0b5T78SKQW5HWVdvbnVoY3c/view?resourcekey=0-Ga2SjkFCrFBERZx4OR6oHg) · [1974|7 · wbsps - module - m462a equalizer 005_small](https://drive.google.com/file/d/0B0yR0b5T78SKckc0X1llekNlRFk/view?resourcekey=0-1HIU8T4K7DYo15hy_1ufuQ) · [1974|7 · wbsps - module - m462a equalizer 006_small](https://drive.google.com/file/d/0B0yR0b5T78SKcjlCZFFzamM3M3c/view?resourcekey=0-yHFyEmDVEwJqMBFFuijo6A) · [1974|7 · wbsps - module - m462a equalizer 007_small](https://drive.google.com/file/d/0B0yR0b5T78SKOW1pNThOMm50dEk/view?resourcekey=0-FI_vYNq0Db7dl-AEjgJ2_A) · [1974|7 · wbsps - module - m462a equalizer 008_small](https://drive.google.com/file/d/0B0yR0b5T78SKLWtFNWZIWkRQWVU/view?resourcekey=0-yxSppa4ADomobEIkH2HaYQ) · [1974|7 · wbsps - module - m462a equalizer 009_small](https://drive.google.com/file/d/0B0yR0b5T78SKVXRvM0JfVnNRcWc/view?resourcekey=0-10ROvLvrTCWTSrKSPRiquQ) · [1974|7 · wbsps - module - m462a equalizer 010_small](https://drive.google.com/file/d/0B0yR0b5T78SKVVhhcXdIVTd3bUk/view?resourcekey=0-bO4kpECp1j-I8Qz5o2Ufkg) · [1974|7 · wbsps - module - m462a equalizer 011_small](https://drive.google.com/file/d/0B0yR0b5T78SKenhEWW9OS1dQNkk/view?resourcekey=0-GXdUTo9P9-5FDb_b6bTSSQ) · [1974|7 · wbsps - module - m462a equalizer 012_small](https://drive.google.com/file/d/0B0yR0b5T78SKQmk3VXdOWUxQaDg/view?resourcekey=0-Up2Jc6BuFf1vzUOigpSg0A)
+Shared privately on Google Drive (opens after sign-in): [1974|7 · wbsps - module - m462a equalizer 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKWVJHM0taNG0wYnc/view?resourcekey=0-HCzAoA6W6dEWRV4PviGGkg) · [1974|7 · wbsps - module - m462a equalizer 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKV2hWMUtXNnJtdFE/view?resourcekey=0-VbheXjmeZyjgBwR0i07oZA)
 
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbHZTakdCdXZXdW8/view?resourcekey=0-yyOLnJYG5_OA8enSiLqcWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbHZTakdCdXZXdW8&resourcekey=0-yyOLnJYG5_OA8enSiLqcWQ" width="240" alt="19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU.jpg"></a><br><sub>19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbHZTakdCdXZXdW8/view?resourcekey=0-yyOLnJYG5_OA8enSiLqcWQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbHZTakdCdXZXdW8&resourcekey=0-yyOLnJYG5_OA8enSiLqcWQ" width="240" alt="19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU.jpg"></a><br><sub>19xx - M462A - DOC - 462-04-006 - EQUALIZER MODULE FRONT PANEL ISSU · <a href="MECHANICAL/19xx%20-%20M462A%20-%20DOC%20-%20462-04-006%20-%20EQUALIZER%20MODULE%20FRONT%20PANEL%20ISSU%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M462A.stl`](MECHANICAL/M462A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M462A)
-
-- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 1.6" wide X 7" high X 6.5" deep_ (41 mm X 178 mm X 165 mm))
-- **From the drawing:** 9 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M462A - front panel.svg`)
-- Made by `tools/module_models.py` (→ `MECHANICAL/M462A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZHZma0ZYU05yYm8/view?resourcekey=0-KE-XpqNJ3allD2_Gcufv1g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZHZma0ZYU05yYm8&resourcekey=0-KE-XpqNJ3allD2_Gcufv1g" width="240" alt="1974 - M462A - 462-02-002.jpg"></a><br><sub>1974|7 · 462-02-002 · <a href="SCHEMATICS/1974%20-%20M462A%20-%20462-02-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1fgeaK5xMRrqjjUkEFo35b_dmeBTPbq58/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1fgeaK5xMRrqjjUkEFo35b_dmeBTPbq58" width="240" alt="1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC.png"></a><br><sub>1976|9 · DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZHZma0ZYU05yYm8/view?resourcekey=0-KE-XpqNJ3allD2_Gcufv1g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZHZma0ZYU05yYm8&resourcekey=0-KE-XpqNJ3allD2_Gcufv1g" width="240" alt="1974 - M462A - 462-02-002.jpg"></a><br><sub>1974|7 · 462-02-002 · <a href="SCHEMATICS/1974%20-%20M462A%20-%20462-02-002%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1fgeaK5xMRrqjjUkEFo35b_dmeBTPbq58/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1fgeaK5xMRrqjjUkEFo35b_dmeBTPbq58" width="240" alt="1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC.png"></a><br><sub>1976|9 · DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC · <a href="SCHEMATICS/1976%20-%20M462A%20-%20DOC%20-%20462-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## Pinouts
@@ -82,7 +74,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1974 - M462A - P6 - Pin Out.jpg"></a><br><sub>1974|7 · P6 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1974 - M462A - P6 - Pin Out.jpg"></a><br><sub>1974|7 · P6 - Pin Out · <a href="PINOUTS/1974%20-%20M462A%20-%20P6%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M462A - RTO-144 Connections.pdf`
@@ -130,10 +122,14 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
 
 - [1974 - M462A - 462-02-002.kicad_sch](KICAD/1974%20-%20M462A%20-%20462-02-002.kicad_sch)
+- [1976 - M462A - DOC - 462-02-002 - EQUALIZER MODULE SCHEMATIC.kicad_sch](KICAD/1976%20-%20M462A%20-%20DOC%20-%20462-02-002%20-%20EQUALIZER%20MODULE%20SCHEMATIC.kicad_sch)
 - [M462A.kicad_sym](KICAD/M462A.kicad_sym)
+- [index.html](KICAD/index.html)
 
 ## Software
 
+- [cpp](SOFTWARE/cpp)
+- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
