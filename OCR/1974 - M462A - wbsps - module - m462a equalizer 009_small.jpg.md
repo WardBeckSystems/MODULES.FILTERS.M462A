@@ -1,5 +1,5 @@
 # 1974 - M462A - wbsps - module - m462a equalizer 009_small.jpg
-Wiki page: [M462A](../../../../PAGES/M462A.md)
+Wiki page: [M462A](../)
 
 
 - **Year:** 1974 (module estimate (family))
